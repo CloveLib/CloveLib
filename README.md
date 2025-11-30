@@ -19,7 +19,7 @@ CloveLib is a shared library plugin designed to support and extend functionality
 CloveLib is automatically utilized by compatible plugins. No additional setup is required by server admins. Ensure that the version of CloveLib matches the requirements of the plugins using it.
 
 ### License
-CloveLib is licensed under the Apache 2.0 License. View the [LICENSE](https://github.com/mazeymoos0022/clovelib/blob/main/LICENSE) file for more details.
+CloveLib is licensed under the MIT License. View the [LICENSE](https://github.com/mazeymoos0022/clovelib/blob/main/LICENSE) file for more details.
 
 ---
 
