@@ -3,7 +3,7 @@
  * Licensed under the MIT License
  */
 
-package uk.co.clovetwilight3;
+package uk.co.clovetwilight3.clovelib;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
